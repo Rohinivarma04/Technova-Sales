@@ -1,0 +1,532 @@
+Order_ID,Order_Date,Customer,City,Product,Category,Sales_Rep,Quantity,Unit_Price,Discount,Revenue,Payment_Mode
+ORD001,2025-01-05,Rahul,Hyderabad,Laptop,Electronics,Ravi,2.0,55000.0,5%,104500.0,UPI
+ORD002,2025-01-07,Priya,Chennai,Monitor,Electronics,Sneha,3.0,18000.0,10%,48600.0,Card
+ORD003,2025-01-10,Arjun,Bangalore,Keyboard,Accessories,Ravi,5.0,2500.0,0%,12500.0,Cash
+ORD004,2025-01-12,Neha,Hyderabad,Mouse,Accessories,Kiran,10.0,1200.0,5%,11400.0,UPI
+ORD005,2025-01-15,Rahul,Hyderabad,Laptop,Electronics,Ravi,1.0,55000.0,5%,52250.0,Card
+ORD005,2025-01-15,Rahul,Hyderabad,Laptop,Electronics,Ravi,1.0,55000.0,5%,52250.0,Card
+ORD006,2025-01-18,Suresh,Chennai,Monitor,Electronics,Sneha,2.0,18000.0,10%,32400.0,UPI
+ORD007,2025-01-20,Anjali,Bangalore,Keyboard,Accessories,Kiran,,2500.0,0%,,Card
+ORD008,2025-01-22,Vijay,Hyderabad,Mouse,Accessories,Ravi,8.0,,5%,,UPI
+ORD009,2025-01-25,Priya,Chennai,Laptop,Electronics,Sneha,2.0,55000.0,,,Card
+ORD010,2025-02-01,Arjun,Bangalore,Monitor,Electronics,Kiran,4.0,18000.0,10%,64800.0,UPI
+ORD011,2025-02-05,Neha,Hyderabad,Keyboard,Accessories,Ravi,6.0,2500.0,0%,15000.0,Cash
+ORD012,2025-02-10,Suresh,Chennai,Mouse,Accessories,Sneha,5.0,1200.0,5%,5700.0,UPI
+ORD013,2025-02-15,Anjali,Bangalore,Laptop,Electronics,Kiran,1.0,55000.0,5%,52250.0,Card
+ORD014,2025-02-20,Vijay,Hyderabad,Monitor,Electronics,Ravi,3.0,18000.0,10%,48600.0,UPI
+ORD015,2025-02-25,Rahul,Hyderabad,Mouse,Accessories,Ravi,10.0,1200.0,5%,11400.0,Card
+ORD016,2025-02-02,Pooja,Pune,Mouse,Accessories,Kiran,9.0,1200.0,0%,10800.0,Cash
+ORD017,2025-03-15,Priya,Pune,Printer,Electronics,Meena,8.0,15000.0,,108000.0,Net Banking
+ORD018,2025-07-07,Priya,Delhi,Mouse,Accessories,Kiran,4.0,1200.0,0%,4800.0,Net Banking
+ORD019,2025-10-13,Meena,Bangalore,Tablet,Electronics,Kiran,5.0,28000.0,5%,133000.0,UPI
+ORD020,2025-02-03,Rohan,Delhi,Laptop,Electronics,Arun,9.0,55000.0,5%,470250.0,Cash
+ORD021,2025-03-02,Pooja,Mumbai,Keyboard,Accessories,Ravi,10.0,2500.0,5%,23750.0,Net Banking
+ORD022,2025-09-05,Pooja,Mumbai,Monitor,Electronics,Sneha,5.0,18000.0,5%,85500.0,UPI
+ORD023,2025-07-19,Arjun,Mumbai,Headphones,Accessories,Arun,,3500.0,5%,26600.0,Net Banking
+ORD024,2025-05-30,Suresh,Delhi,Keyboard,Accessories,Ravi,5.0,2500.0,,10625.0,UPI
+ORD025,2025-06-18,Priya,Mumbai,Mouse,Accessories,Sneha,3.0,1200.0,,3240.0,Cash
+ORD026,2025-12-10,Vijay,Hyderabad,Tablet,Electronics,Meena,8.0,28000.0,0%,224000.0,Card
+ORD027,2025-10-08,Kiran,Bangalore,Tablet,Electronics,Arun,4.0,,15%,95200.0,Card
+ORD028,2025-03-29,Amit,Pune,Laptop,Electronics,Arun,2.0,55000.0,15%,93500.0,UPI
+ORD029,2025-10-18,Pooja,Mumbai,Headphones,Accessories,Kiran,8.0,3500.0,5%,26600.0,Net Banking
+ORD030,2025-07-22,Vijay,Pune,Mouse,Accessories,Ravi,2.0,1200.0,0%,2400.0,UPI
+ORD031,2025-06-10,Amit,Pune,Mouse,Accessories,Arun,6.0,1200.0,0%,,Net Banking
+ORD032,2025-07-29,Meena,Pune,Mouse,Accessories,Ravi,,1200.0,15%,6120.0,Card
+ORD033,2025-08-09,Rahul,Bangalore,Mouse,Accessories,Arun,3.0,1200.0,5%,3420.0,Card
+ORD034,2025-12-29,Kiran,Hyderabad,Monitor,Electronics,Arun,1.0,18000.0,15%,15300.0,Card
+ORD035,2025-12-01,Suresh,Bangalore,Headphones,Accessories,Ravi,6.0,3500.0,10%,18900.0,Net Banking
+ORD036,2025-12-30,Meena,,Keyboard,Accessories,Kiran,9.0,2500.0,5%,21375.0,UPI
+ORD037,2025-05-03,Rahul,,Laptop,Electronics,Meena,8.0,55000.0,10%,396000.0,Card
+ORD038,2025-09-19,Arjun,Delhi,Mouse,Accessories,Arun,2.0,1200.0,5%,2280.0,Cash
+ORD039,2025-06-30,Vijay,Hyderabad,Keyboard,Accessories,Sneha,4.0,2500.0,10%,9000.0,Cash
+ORD040,2025-08-10,Anjali,Delhi,Laptop,Electronics,Sneha,2.0,55000.0,5%,104500.0,Net Banking
+ORD041,2025-05-14,Varun,Bangalore,Headphones,Accessories,Kiran,3.0,3500.0,15%,8925.0,Net Banking
+ORD042,2025-04-07,Pooja,Chennai,Tablet,Electronics,Meena,5.0,28000.0,10%,126000.0,Card
+ORD043,2025-01-29,Priya,Bangalore,Printer,Electronics,Ravi,5.0,15000.0,10%,67500.0,UPI
+ORD044,2025-09-21,Suresh,Mumbai,Headphones,Accessories,Kiran,2.0,3500.0,5%,6650.0,Net Banking
+ORD045,2025-01-08,Pooja,Bangalore,Tablet,Electronics,Meena,5.0,28000.0,5%,133000.0,Cash
+ORD046,2025-02-21,Rohan,Hyderabad,Headphones,Accessories,Meena,1.0,3500.0,15%,2975.0,Card
+ORD047,2025-10-15,Rahul,Chennai,Mouse,Accessories,Ravi,4.0,1200.0,10%,4320.0,UPI
+ORD048,2025-09-05,Priya,Chennai,Headphones,Accessories,Meena,2.0,3500.0,5%,6650.0,Net Banking
+ORD049,2025-12-28,Rohan,Bangalore,Keyboard,Accessories,Meena,6.0,2500.0,5%,14250.0,UPI
+ORD050,2025-02-25,Divya,Bangalore,Mouse,Accessories,Kiran,8.0,1200.0,0%,9600.0,UPI
+ORD051,2025-04-11,Kavya,Mumbai,Mouse,Accessories,Kiran,10.0,1200.0,0%,12000.0,Cash
+ORD052,2025-07-17,Kavya,Mumbai,Monitor,Electronics,Arun,4.0,18000.0,10%,64800.0,Cash
+ORD053,2025-11-07,Vijay,Chennai,Laptop,Electronics,Sneha,9.0,55000.0,0%,495000.0,Net Banking
+ORD054,2025-07-18,Arjun,Chennai,Mouse,Accessories,Sneha,2.0,1200.0,10%,2160.0,Cash
+ORD055,2025-02-13,Suresh,Chennai,Headphones,Accessories,Meena,8.0,3500.0,,23800.0,Net Banking
+ORD056,2025-04-28,Priya,Pune,Printer,Electronics,Arun,3.0,15000.0,0%,45000.0,UPI
+ORD057,2025-02-21,Rohan,Pune,Keyboard,Accessories,Sneha,9.0,2500.0,5%,21375.0,Net Banking
+ORD058,2025-12-18,Suresh,Chennai,Printer,Electronics,Meena,3.0,15000.0,10%,40500.0,Cash
+ORD059,2025-11-27,Neha,Delhi,Printer,Electronics,Ravi,2.0,15000.0,10%,27000.0,UPI
+ORD060,2025-04-20,Vijay,Delhi,Printer,Electronics,Ravi,9.0,15000.0,0%,135000.0,Cash
+ORD061,2025-11-05,Varun,Chennai,Printer,Electronics,Ravi,6.0,15000.0,,85500.0,Card
+ORD062,2025-01-09,Pooja,Bangalore,Headphones,Accessories,Kiran,4.0,3500.0,15%,11900.0,UPI
+ORD063,2025-09-26,Pooja,Bangalore,Monitor,Electronics,Ravi,10.0,18000.0,15%,153000.0,UPI
+ORD064,2025-01-12,Priya,Hyderabad,Tablet,Electronics,Arun,2.0,,10%,50400.0,UPI
+ORD065,2025-05-15,Rohan,Mumbai,Printer,Electronics,Ravi,2.0,15000.0,5%,28500.0,Card
+ORD066,2025-12-31,Pooja,Chennai,Printer,Electronics,Kiran,6.0,,5%,85500.0,UPI
+ORD067,2025-12-08,Rahul,Chennai,Monitor,Electronics,Sneha,2.0,18000.0,,36000.0,Cash
+ORD068,2025-12-20,Priya,Chennai,Mouse,Accessories,Arun,7.0,1200.0,15%,7140.0,Cash
+ORD069,2025-06-02,Arjun,Delhi,Tablet,Electronics,Ravi,8.0,28000.0,0%,224000.0,Cash
+ORD070,2025-10-29,Priya,Bangalore,Laptop,Electronics,Kiran,10.0,55000.0,0%,550000.0,Card
+ORD071,2025-12-22,Suresh,Hyderabad,Mouse,Accessories,Kiran,,1200.0,5%,7980.0,Net Banking
+ORD072,2025-07-10,Suresh,Delhi,Printer,Electronics,Kiran,1.0,15000.0,10%,13500.0,Cash
+ORD073,2025-02-24,Meena,Delhi,Laptop,Electronics,Meena,-2.0,55000.0,10%,99000.0,Card
+ORD074,2025-01-03,Divya,Hyderabad,Headphones,Accessories,Ravi,10.0,3500.0,10%,31500.0,Net Banking
+ORD075,2025-06-07,Kavya,Pune,Tablet,Electronics,Arun,1.0,28000.0,10%,25200.0,UPI
+ORD076,2025-04-16,Kiran,Chennai,Tablet,Electronics,Kiran,3.0,28000.0,5%,79800.0,Cash
+ORD077,2025-10-07,Meena,Delhi,Printer,Electronics,Meena,7.0,15000.0,5%,99750.0,Card
+ORD078,2025-02-13,Anjali,Delhi,Keyboard,Accessories,Ravi,7.0,2500.0,15%,14875.0,Net Banking
+ORD079,2025-04-11,Vijay,Pune,Monitor,Electronics,Sneha,3.0,18000.0,15%,45900.0,Cash
+ORD080,2025-11-03,Kiran,Delhi,Laptop,Electronics,Arun,1.0,55000.0,5%,,Cash
+ORD081,2025-05-11,Arjun,Chennai,Tablet,Electronics,Sneha,4.0,28000.0,15%,95200.0,UPI
+ORD082,2025-12-01,Varun,Pune,Monitor,Electronics,Ravi,3.0,18000.0,10%,48600.0,UPI
+ORD083,2025-06-16,Priya,Pune,Laptop,Electronics,Meena,1.0,55000.0,0%,55000.0,UPI
+ORD084,2025-10-31,Rahul,Bangalore,Headphones,Accessories,Kiran,7.0,3500.0,15%,20825.0,Card
+ORD085,2025-10-30,Suresh,Delhi,Mouse,Accessories,Meena,9.0,1200.0,15%,9180.0,Net Banking
+ORD086,2025-07-15,Rahul,Bangalore,Monitor,Electronics,Arun,3.0,18000.0,0%,54000.0,UPI
+ORD087,2025-08-23,Rohan,Delhi,Keyboard,Accessories,Sneha,1.0,2500.0,0%,2500.0,Card
+ORD088,2025-12-04,Kavya,Delhi,Laptop,Electronics,Ravi,9.0,55000.0,,495000.0,UPI
+ORD089,2025-05-28,Varun,Mumbai,Laptop,Electronics,Arun,9.0,55000.0,15%,420750.0,Net Banking
+ORD090,2025-03-29,Divya,Chennai,Tablet,Electronics,Kiran,8.0,28000.0,10%,201600.0,Cash
+ORD091,2025-08-13,Pooja,Mumbai,Laptop,Electronics,Arun,6.0,55000.0,5%,313500.0,Cash
+ORD092,2025-12-19,Kiran,Delhi,Mouse,Accessories,Meena,4.0,1200.0,10%,4320.0,Cash
+ORD093,2025-04-02,Neha,Hyderabad,Laptop,Electronics,Kiran,5.0,55000.0,,275000.0,upi
+ORD094,2025-08-09,Neha,Bangalore,Keyboard,Accessories,Kiran,4.0,2500.0,10%,9000.0,Card
+ORD095,2025-06-08,Anjali,Chennai,Headphones,Accessories,Sneha,3.0,3500.0,15%,8925.0,Net Banking
+ORD096,2025-09-02,Varun,Delhi,Mouse,Accessories,Meena,4.0,1200.0,5%,4560.0,Cash
+ORD097,2025-12-17,Kiran,Bangalore,Headphones,Accessories,Sneha,9.0,3500.0,10%,,Cash
+ORD098,2025-10-07,Meena,Hyderabad,Keyboard,Accessories,Ravi,8.0,2500.0,0%,20000.0,UPI
+ORD099,2025-08-07,Amit,Pune,Printer,Electronics,Arun,-2.0,15000.0,15%,25500.0,Cash
+ORD100,2025-08-21,Priya,Pune,Tablet,Electronics,Kiran,1.0,28000.0,10%,25200.0,Net Banking
+ORD101,2025-09-22,Arjun,Delhi,Printer,Electronics,Ravi,9.0,15000.0,5%,128250.0,Cash
+ORD102,2025-06-12,Pooja,Delhi,Tablet,Electronics,Arun,10.0,28000.0,0%,280000.0,Card
+ORD103,2025-09-21,Rohan,Hyderabad,Laptop,Electronics,Kiran,7.0,55000.0,0%,385000.0,UPI
+ORD104,2025-02-17,Rohan,Hyderabad,Headphones,Accessories,Kiran,5.0,3500.0,10%,15750.0,Cash
+ORD105,2025-09-23,Pooja,Delhi,Tablet,Electronics,Kiran,5.0,28000.0,0%,140000.0,Cash
+ORD106,2025-02-20,Varun,Delhi,Laptop,Electronics,Meena,2.0,55000.0,10%,99000.0,UPI
+ORD107,2025-06-28,Meena,Mumbai,Keyboard,Accessories,Arun,8.0,2500.0,0%,20000.0,Cash
+ORD108,2025-09-24,Anjali,Mumbai,Printer,Electronics,Arun,8.0,15000.0,10%,108000.0,Card
+ORD109,2025-10-18,Anjali,Pune,Keyboard,Accessories,Sneha,2.0,2500.0,15%,4250.0,UPI
+ORD110,2025-02-01,Divya,Pune,Mouse,Accessories,Meena,4.0,1200.0,0%,4800.0,Cash
+ORD111,2025-03-06,Rohan,Delhi,Printer,Electronics,Sneha,8.0,15000.0,,,Card
+ORD112,2025-02-21,Anjali,Pune,Printer,Electronics,Ravi,8.0,15000.0,15%,102000.0,Net Banking
+ORD113,2025-06-04,Priya,Chennai,Tablet,Electronics,Arun,7.0,28000.0,0%,196000.0,UPI
+ORD114,2025-06-24,Rohan,Hyderabad,Headphones,Accessories,Kiran,1.0,3500.0,0%,3500.0,Card
+ORD115,2025-09-21,Kiran,Bangalore,Keyboard,Accessories,Arun,5.0,2500.0,5%,11875.0,Card
+ORD116,2025-01-05,Suresh,Pune,Printer,Electronics,Meena,8.0,15000.0,10%,108000.0,UPI
+ORD117,2025-05-23,Divya,Hyderabad,Printer,Electronics,Meena,3.0,15000.0,15%,38250.0,Net Banking
+ORD118,2025-01-16,Priya,Pune,Printer,Electronics,Ravi,7.0,15000.0,0%,,Cash
+ORD119,2025-08-16,Priya,Mumbai,Printer,Electronics,Arun,1.0,15000.0,0%,15000.0,UPI
+ORD120,2025-06-15,Arjun,Delhi,Tablet,Electronics,Arun,2.0,28000.0,0%,56000.0,Net Banking
+ORD121,2025-04-16,Meena,Delhi,Laptop,Electronics,Ravi,1.0,55000.0,0%,55000.0,UPI
+ORD122,2025-10-27,Meena,Delhi,Tablet,Electronics,Arun,3.0,28000.0,5%,79800.0,Net Banking
+ORD123,2025-03-31,Rahul,Mumbai,Tablet,Electronics,Arun,10.0,28000.0,0%,280000.0,Net Banking
+ORD124,2025-11-05,Amit,,Tablet,Electronics,Kiran,1.0,28000.0,5%,26600.0,UPI
+ORD125,2025-02-11,Priya,Mumbai,Mouse,Accessories,Kiran,8.0,1200.0,10%,8640.0,Cash
+ORD126,2025-02-01,Kiran,Bangalore,Monitor,Electronics,Arun,8.0,18000.0,0%,144000.0,UPI
+ORD127,2025-01-06,Suresh,Hyderabad,Headphones,Accessories,Kiran,10.0,3500.0,10%,31500.0,Cash
+ORD128,2025-07-05,Rahul,Hyderabad,Headphones,Accessories,Ravi,1.0,3500.0,0%,3500.0,Net Banking
+ORD129,2025-06-17,Amit,Bangalore,Monitor,Electronics,Sneha,1.0,18000.0,15%,15300.0,UPI
+ORD130,2025-05-18,Divya,Pune,Mouse,Accessories,Kiran,8.0,1200.0,5%,9120.0,Cash
+ORD131,2025-11-15,Rohan,Bangalore,Monitor,Electronics,Sneha,10.0,18000.0,10%,,upi
+ORD132,2025-06-02,Rohan,Pune,Headphones,Accessories,Sneha,7.0,3500.0,5%,23275.0,Net Banking
+ORD133,2025-02-27,Arjun,Bangalore,Mouse,Accessories,Meena,5.0,1200.0,15%,5100.0,Card
+ORD134,2025-02-17,Priya,Delhi,Laptop,Electronics,Arun,3.0,55000.0,0%,165000.0,Card
+ORD135,2025-08-13,Vijay,Mumbai,Headphones,Accessories,Kiran,7.0,3500.0,15%,20825.0,Card
+ORD136,2025-02-26,Vijay,Delhi,Monitor,Electronics,Arun,6.0,18000.0,10%,97200.0,Card
+ORD137,2025-12-02,Rahul,Chennai,Keyboard,Accessories,Kiran,5.0,2500.0,0%,12500.0,UPI
+ORD138,2025-02-04,Rohan,Bangalore,Mouse,Accessories,Kiran,8.0,1200.0,10%,8640.0,Cash
+ORD139,2025-08-03,Meena,Pune,Keyboard,Accessories,Sneha,8.0,2500.0,5%,19000.0,Cash
+ORD140,2025-03-13,Vijay,Pune,Headphones,Accessories,Kiran,4.0,3500.0,15%,11900.0,Cash
+ORD141,2025-10-23,Pooja,Pune,Printer,Electronics,Ravi,10.0,15000.0,15%,127500.0,Cash
+ORD142,2025-09-25,Kavya,Chennai,Tablet,Electronics,Sneha,4.0,,10%,100800.0,Net Banking
+ORD143,2025-05-21,Kavya,Hyderabad,Laptop,Electronics,Ravi,,55000.0,15%,,Net Banking
+ORD144,2025-10-27,Rahul,Hyderabad,Monitor,Electronics,Kiran,4.0,18000.0,5%,68400.0,UPI
+ORD145,2025-09-24,Suresh,Hyderabad,Tablet,Electronics,Arun,1.0,28000.0,5%,26600.0,Net Banking
+ORD146,2025-09-15,Kiran,Bangalore,Keyboard,Accessories,Meena,2.0,2500.0,0%,5000.0,Cash
+ORD147,2025-09-01,Priya,Pune,Keyboard,Accessories,Kiran,10.0,2500.0,0%,25000.0,Net Banking
+ORD148,2025-06-14,Pooja,Bangalore,Keyboard,Accessories,Meena,7.0,2500.0,0%,17500.0,Cash
+ORD149,2025-10-02,Anjali,Delhi,Headphones,Accessories,Sneha,1.0,3500.0,10%,3150.0,UPI
+ORD150,2025-10-04,Kavya,,Monitor,Electronics,Meena,,18000.0,5%,34200.0,Net Banking
+ORD151,2025-12-02,Divya,Delhi,Mouse,Accessories,Sneha,9.0,1200.0,15%,9180.0,Net Banking
+ORD152,2025-08-26,Arjun,Pune,Mouse,Accessories,Arun,4.0,1200.0,5%,4560.0,UPI
+ORD153,2025-11-01,Pooja,Hyderabad,Mouse,Accessories,Kiran,5.0,1200.0,15%,5100.0,UPI
+ORD154,2025-04-22,Arjun,Chennai,Printer,Electronics,Arun,1.0,15000.0,10%,13500.0,UPI
+ORD155,2025-03-12,Suresh,Chennai,Mouse,Accessories,Arun,,1200.0,10%,,Card
+ORD156,2025-01-06,Priya,Chennai,Monitor,Electronics,Arun,9.0,18000.0,15%,137700.0,Cash
+ORD157,2025-07-23,Meena,Bangalore,Headphones,Accessories,Meena,8.0,3500.0,10%,25200.0,UPI
+ORD158,2025-09-22,Anjali,Mumbai,Mouse,Accessories,Arun,4.0,1200.0,15%,4080.0,Net Banking
+ORD159,2025-05-01,Kavya,Pune,Tablet,Electronics,Meena,9.0,28000.0,5%,239400.0,Cash
+ORD160,2025-06-07,Varun,Chennai,Headphones,Accessories,Ravi,9.0,3500.0,5%,29925.0,Card
+ORD161,2025-08-01,Kavya,Delhi,Mouse,Accessories,Kiran,2.0,1200.0,0%,2400.0,Card
+ORD162,2025-12-31,Varun,Pune,Headphones,Accessories,Sneha,2.0,,0%,7000.0,Card
+ORD163,2025-04-26,Arjun,Chennai,Laptop,Electronics,Meena,10.0,55000.0,10%,495000.0,Card
+ORD164,2025-06-03,Suresh,Hyderabad,Headphones,Accessories,Kiran,1.0,3500.0,5%,3325.0,Card
+ORD165,2025-03-04,Amit,Pune,Headphones,Accessories,Meena,10.0,3500.0,,29750.0,Cash
+ORD166,2025-11-17,Kavya,Hydrabad,Tablet,Electronics,Meena,10.0,28000.0,10%,252000.0,Cash
+ORD167,2025-04-14,Divya,Pune,Tablet,Electronics,Kiran,9.0,28000.0,0%,252000.0,UPI
+ORD168,2025-07-05,Amit,Mumbai,Mouse,Accessories,Meena,6.0,1200.0,15%,6120.0,Cash
+ORD169,2025-06-02,Divya,Hyderabad,Printer,Electronics,Ravi,3.0,15000.0,15%,38250.0,Cash
+ORD170,2025-12-21,Pooja,Pune,Keyboard,Accessories,Ravi,,2500.0,5%,,UPI
+ORD171,2025-07-05,Pooja,Delhi,Mouse,Accessories,Arun,10.0,1200.0,15%,10200.0,Card
+ORD172,2025-04-29,Divya,Chennai,Keyboard,Accessories,Ravi,8.0,2500.0,10%,18000.0,UPI
+ORD173,2025-03-23,Rohan,Pune,Tablet,Electronics,Sneha,10.0,28000.0,5%,266000.0,Net Banking
+ORD174,2025-03-29,Rahul,Hyderabad,Keyboard,Accessories,Arun,1.0,2500.0,5%,2375.0,UPI
+ORD175,2025-12-07,Amit,Mumbai,Headphones,Accessories,Meena,8.0,3500.0,0%,28000.0,Net Banking
+ORD176,2025-09-28,Pooja,Bangalore,Tablet,Electronics,Sneha,1.0,28000.0,15%,23800.0,UPI
+ORD177,2025-02-07,Meena,Chennai,Printer,Electronics,Kiran,1.0,15000.0,15%,12750.0,Cash
+ORD178,2025-04-06,Amit,Pune,Laptop,Electronics,Meena,5.0,55000.0,10%,247500.0,Net Banking
+ORD179,2025-08-11,Amit,Chennai,Monitor,Electronics,Kiran,9.0,18000.0,10%,145800.0,Card
+ORD180,2025-10-12,Kiran,Delhi,Keyboard,Accessories,Meena,6.0,,,14250.0,Card
+ORD181,2025-02-11,Suresh,Pune,Printer,Electronics,Arun,2.0,15000.0,10%,27000.0,UPI
+ORD182,2025-09-04,Anjali,Bangalore,Tablet,Electronics,Kiran,,28000.0,10%,,Net Banking
+ORD183,2025-08-21,Suresh,Mumbai,Keyboard,Accessories,Kiran,2.0,2500.0,,5000.0,Cash
+ORD184,2025-03-10,Divya,Delhi,Headphones,Accessories,Meena,6.0,3500.0,0%,21000.0,Card
+ORD185,2025-06-30,Varun,Chennai,Mouse,Accessories,Sneha,2.0,1200.0,0%,2400.0,Card
+ORD186,2025-01-31,Priya,Bangalore,Monitor,Electronics,Kiran,1.0,18000.0,5%,17100.0,Card
+ORD187,2025-12-18,Meena,Delhi,Keyboard,Accessories,Kiran,5.0,2500.0,15%,10625.0,Net Banking
+ORD188,2025-12-18,Pooja,Pune,Mouse,Accessories,Arun,,1200.0,5%,3420.0,Net Banking
+ORD189,2025-05-22,Neha,Pune,Keyboard,Accessories,Arun,10.0,2500.0,5%,23750.0,Cash
+ORD190,2025-12-26,Pooja,Chennai,Headphones,Accessories,Meena,7.0,3500.0,0%,24500.0,Card
+ORD191,2025-11-08,Neha,,Keyboard,Accessories,Ravi,2.0,2500.0,5%,4750.0,Net Banking
+ORD192,2025-01-01,Suresh,Hyderabad,Mouse,Accessories,Sneha,8.0,1200.0,10%,8640.0,Net Banking
+ORD193,2025-08-20,Vijay,Delhi,Mouse,Accessories,Arun,10.0,1200.0,10%,10800.0,Cash
+ORD194,2025-04-04,Kiran,Mumbai,Printer,Electronics,Sneha,8.0,15000.0,5%,114000.0,UPI
+ORD195,2025-03-04,Rohan,Chennai,Laptop,Electronics,Kiran,7.0,55000.0,5%,365750.0,Net Banking
+ORD196,2025-10-12,Kavya,Delhi,Mouse,Accessories,Ravi,1.0,1200.0,15%,1020.0,Net Banking
+ORD197,2025-09-27,Priya,Chennai,Laptop,Electronics,Ravi,3.0,55000.0,10%,148500.0,UPI
+ORD198,2025-12-26,Vijay,Chennai,Mouse,Accessories,Meena,4.0,1200.0,0%,4800.0,UPI
+ORD199,2025-11-07,Priya,Pune,Keyboard,Accessories,Meena,1.0,2500.0,15%,2125.0,Cash
+ORD200,2025-06-13,Neha,Delhi,Keyboard,Accessories,Kiran,4.0,2500.0,0%,10000.0,Card
+ORD201,2025-02-25,Rahul,Chennai,Laptop,Electronics,Kiran,9.0,55000.0,0%,495000.0,UPI
+ORD202,2025-02-10,Kavya,Chennai,Mouse,Accessories,Ravi,4.0,1200.0,5%,4560.0,Card
+ORD203,2025-07-21,Pooja,Bangalore,Tablet,Electronics,Kiran,3.0,28000.0,0%,84000.0,Card
+ORD204,2025-08-07,Neha,Delhi,Mouse,Accessories,Arun,7.0,1200.0,5%,7980.0,UPI
+ORD205,2025-09-29,Suresh,Chennai,Printer,Electronics,Kiran,,15000.0,5%,14250.0,Card
+ORD206,2025-11-12,Amit,Chennai,Monitor,Electronics,Meena,1.0,18000.0,5%,17100.0,UPI
+ORD207,2025-01-08,Varun,Hyderabad,Laptop,Electronics,Arun,2.0,55000.0,15%,93500.0,UPI
+ORD208,2025-02-26,Priya,Mumbai,Headphones,Accessories,Kiran,3.0,3500.0,0%,10500.0,Cash
+ORD209,2025-03-26,Rohan,Mumbai,Tablet,Electronics,Kiran,1.0,28000.0,5%,26600.0,Net Banking
+ORD210,2025-07-14,Meena,Bangalore,Monitor,Electronics,Arun,8.0,18000.0,15%,122400.0,Net Banking
+ORD211,2025-04-17,Neha,Chennai,Printer,Electronics,Kiran,5.0,15000.0,15%,63750.0,Cash
+ORD212,2025-11-28,Divya,Hyderabad,Keyboard,Accessories,Meena,9.0,2500.0,0%,,Card
+ORD213,2025-07-20,Pooja,Hyderabad,Headphones,Accessories,Sneha,3.0,3500.0,10%,9450.0,Card
+ORD214,2025-08-21,Suresh,Mumbai,Laptop,Electronics,Arun,1.0,55000.0,10%,49500.0,Card
+ORD215,2025-05-20,Rahul,Mumbai,Monitor,Electronics,Meena,8.0,18000.0,15%,122400.0,Cash
+ORD216,2025-04-21,Pooja,Mumbai,Keyboard,Accessories,Ravi,9.0,2500.0,0%,22500.0,Cash
+ORD217,2025-03-28,Priya,Mumbai,Monitor,Electronics,Meena,7.0,18000.0,0%,126000.0,UPI
+ORD218,2025-10-17,Kavya,Hyderabad,Printer,Electronics,Sneha,1.0,15000.0,15%,12750.0,UPI
+ORD219,2025-07-21,Divya,Pune,Headphones,Accessories,Sneha,2.0,3500.0,10%,6300.0,Net Banking
+ORD220,2025-02-03,Varun,Bangalore,Mouse,Accessories,Ravi,7.0,1200.0,0%,8400.0,Card
+ORD221,2025-09-21,Rahul,Bangalore,Headphones,Accessories,Ravi,,3500.0,5%,9975.0,Cash
+ORD222,2025-12-23,Kiran,Chennai,Laptop,Electronics,Ravi,6.0,55000.0,0%,330000.0,UPI
+ORD223,2025-11-06,Varun,Delhi,Monitor,Electronics,Meena,7.0,18000.0,0%,,Cash
+ORD224,2025-07-11,Anjali,Mumbai,Headphones,Accessories,Kiran,8.0,3500.0,15%,23800.0,Cash
+ORD225,2025-04-08,Pooja,Mumbai,Printer,Electronics,Ravi,5.0,15000.0,15%,63750.0,Cash
+ORD226,2025-12-11,Rahul,Hyderabad,Tablet,Electronics,Sneha,6.0,28000.0,5%,159600.0,Card
+ORD227,2025-12-09,Priya,Mumbai,Printer,Electronics,Meena,,15000.0,0%,60000.0,Cash
+ORD228,2025-06-21,Arjun,Bangalore,Printer,Electronics,Sneha,2.0,15000.0,10%,27000.0,UPI
+ORD229,2025-12-02,Kiran,Delhi,Printer,Electronics,Sneha,,15000.0,5%,42750.0,Card
+ORD230,2025-11-18,Pooja,Pune,Printer,Electronics,Meena,4.0,15000.0,5%,57000.0,Cash
+ORD231,2025-02-02,Pooja,Pune,Tablet,Electronics,Kiran,8.0,28000.0,15%,190400.0,Cash
+ORD232,2025-06-12,Priya,Mumbai,Printer,Electronics,Meena,9.0,15000.0,15%,114750.0,Net Banking
+ORD233,2025-07-03,Priya,Hyderabad,Monitor,Electronics,Kiran,8.0,18000.0,5%,136800.0,UPI
+ORD234,2025-03-18,Divya,Delhi,Keyboard,Accessories,Arun,8.0,2500.0,15%,17000.0,Net Banking
+ORD235,2025-08-18,Anjali,,Keyboard,Accessories,Sneha,7.0,2500.0,10%,15750.0,Cash
+ORD236,2025-05-21,Vijay,Hyderabad,Headphones,Accessories,Kiran,10.0,3500.0,10%,31500.0,Card
+ORD237,2025-01-25,Arjun,Bangalore,Keyboard,Accessories,Sneha,4.0,2500.0,15%,8500.0,UPI
+ORD238,2025-05-02,Arjun,Chennai,Headphones,Accessories,Ravi,4.0,3500.0,0%,14000.0,Net Banking
+ORD239,2025-09-23,Neha,Chennai,Laptop,Electronics,Kiran,8.0,55000.0,10%,,Net Banking
+ORD240,2025-05-06,Suresh,Bangalore,Monitor,Electronics,Arun,2.0,18000.0,5%,34200.0,Cash
+ORD241,2025-01-21,Kavya,Bangalore,Monitor,Electronics,Ravi,1.0,18000.0,0%,18000.0,Card
+ORD242,2025-02-02,Divya,Chennai,Headphones,Accessories,Meena,5.0,3500.0,15%,14875.0,UPI
+ORD243,2025-03-27,Neha,Hyderabad,Keyboard,Accessories,Sneha,8.0,2500.0,5%,19000.0,Net Banking
+ORD244,2025-10-10,Varun,Hyderabad,Printer,Electronics,Meena,10.0,15000.0,,142500.0,Net Banking
+ORD245,2025-08-03,Priya,Bangalore,Laptop,Electronics,Arun,4.0,55000.0,0%,220000.0,Cash
+ORD246,2025-06-05,Priya,Mumbai,Tablet,Electronics,Meena,7.0,28000.0,5%,186200.0,Cash
+ORD247,2025-07-10,Arjun,Hyderabad,Monitor,Electronics,Kiran,2.0,18000.0,0%,36000.0,Net Banking
+ORD248,2025-05-17,Rohan,Pune,Tablet,Electronics,Meena,,28000.0,15%,71400.0,Card
+ORD249,2025-11-01,Vijay,Hyderabad,Tablet,Electronics,Ravi,8.0,28000.0,0%,224000.0,UPI
+ORD250,2025-08-09,Divya,Bangalore,Laptop,Electronics,Sneha,9.0,55000.0,10%,445500.0,UPI
+ORD251,2025-05-21,Neha,Chennai,Tablet,Electronics,Meena,2.0,28000.0,10%,50400.0,Card
+ORD252,2025-01-23,Vijay,Chennai,Monitor,Electronics,Arun,8.0,18000.0,0%,144000.0,Net Banking
+ORD253,2025-07-29,Varun,Mumbai,Keyboard,Accessories,Kiran,6.0,2500.0,10%,13500.0,UPI
+ORD254,2025-05-02,Neha,Chennai,Monitor,Electronics,Ravi,10.0,18000.0,0%,180000.0,Net Banking
+ORD255,2025-01-02,Pooja,Chennai,Mouse,Accessories,Sneha,5.0,1200.0,5%,5700.0,Cash
+ORD256,2025-05-24,Rohan,Mumbai,Mouse,Accessories,Sneha,2.0,1200.0,5%,2280.0,UPI
+ORD257,2025-03-08,Divya,Hyderabad,Mouse,Accessories,Arun,10.0,1200.0,0%,12000.0,UPI
+ORD258,2025-05-16,Rohan,Delhi,Monitor,Electronics,Ravi,3.0,18000.0,15%,45900.0,UPI
+ORD259,2025-05-19,Priya,Hyderabad,Printer,Electronics,Ravi,4.0,15000.0,15%,51000.0,Cash
+ORD260,2025-01-27,Vijay,Delhi,Keyboard,Accessories,Kiran,6.0,2500.0,,13500.0,UPI
+ORD261,2025-11-03,Divya,Hyderabad,Tablet,Electronics,Arun,8.0,28000.0,5%,212800.0,Card
+ORD262,2025-11-03,Arjun,Mumbai,Printer,Electronics,Meena,4.0,15000.0,10%,54000.0,UPI
+ORD263,2025-12-07,Anjali,Hyderabad,Tablet,Electronics,Meena,7.0,28000.0,0%,196000.0,Net Banking
+ORD264,2025-08-21,Pooja,Mumbai,Monitor,Electronics,Sneha,10.0,18000.0,10%,162000.0,Card
+ORD265,2025-04-15,Meena,Mumbai,Laptop,Electronics,Kiran,10.0,55000.0,5%,,Card
+ORD266,2025-11-17,Rahul,Bangalore,Mouse,Accessories,Meena,2.0,1200.0,5%,2280.0,UPI
+ORD267,2025-10-15,Meena,Bangalore,Keyboard,Accessories,Ravi,10.0,2500.0,10%,22500.0,Card
+ORD268,2025-06-01,Amit,Mumbai,Mouse,Accessories,Sneha,7.0,1200.0,10%,7560.0,Cash
+ORD269,2025-01-27,Kavya,Pune,Printer,Electronics,Kiran,4.0,15000.0,10%,54000.0,UPI
+ORD270,2025-02-03,Amit,Delhi,Tablet,Electronics,Kiran,1.0,28000.0,15%,23800.0,Card
+ORD271,2025-04-16,Varun,Mumbai,Tablet,Electronics,Sneha,10.0,28000.0,5%,266000.0,Cash
+ORD272,2025-10-02,Meena,Chennai,Keyboard,Accessories,Sneha,10.0,2500.0,10%,22500.0,Card
+ORD273,2025-09-26,Pooja,Bangalore,Keyboard,Accessories,Arun,6.0,2500.0,0%,15000.0,Cash
+ORD274,2025-08-04,Kavya,Mumbai,Printer,Electronics,Sneha,5.0,15000.0,0%,75000.0,Cash
+ORD275,2025-05-27,Anjali,Mumbai,Keyboard,Accessories,Kiran,,2500.0,,11875.0,UPI
+ORD276,2025-10-29,Priya,Chennai,Headphones,Accessories,Ravi,7.0,3500.0,10%,22050.0,Cash
+ORD277,2025-04-22,Rahul,Delhi,Keyboard,Accessories,Arun,2.0,2500.0,0%,5000.0,Net Banking
+ORD278,2025-12-10,Kiran,Mumbai,Monitor,Electronics,Arun,7.0,18000.0,0%,126000.0,UPI
+ORD279,2025-11-14,Suresh,Mumbai,Laptop,Electronics,Sneha,3.0,55000.0,5%,156750.0,Cash
+ORD280,2025-11-30,Varun,Mumbai,Monitor,Electronics,Arun,6.0,18000.0,10%,97200.0,Cash
+ORD281,2025-10-08,Divya,Pune,Headphones,Accessories,Meena,3.0,3500.0,5%,9975.0,Cash
+ORD282,2025-01-24,Suresh,Mumbai,Printer,Electronics,Kiran,-4.0,15000.0,5%,57000.0,Cash
+ORD283,2025-07-18,Rahul,Pune,Keyboard,Accessories,Meena,9.0,2500.0,15%,19125.0,Cash
+ORD284,2025-05-13,Vijay,Chennai,Printer,Electronics,Arun,9.0,15000.0,5%,,Card
+ORD285,2025-11-09,Rohan,Mumbai,Mouse,Accessories,Kiran,,1200.0,15%,7140.0,Card
+ORD286,2025-10-23,Neha,Bangalore,Printer,Electronics,Arun,10.0,15000.0,5%,142500.0,Net Banking
+ORD287,2025-12-08,Divya,Hyderabad,Tablet,Electronics,Arun,8.0,28000.0,0%,224000.0,Net Banking
+ORD288,2025-02-08,Kavya,Pune,Mouse,Accessories,Meena,3.0,1200.0,10%,3240.0,Cash
+ORD289,2025-08-20,Suresh,Chennai,Monitor,Electronics,Kiran,6.0,18000.0,5%,102600.0,Card
+ORD290,2025-04-15,Neha,Pune,Tablet,Electronics,Sneha,-9.0,28000.0,10%,226800.0,UPI
+ORD291,2025-05-14,Rahul,Hyderabad,Keyboard,Accessories,Kiran,8.0,2500.0,0%,20000.0,Net Banking
+ORD292,2025-03-27,Arjun,Mumbai,Tablet,Electronics,Meena,2.0,28000.0,0%,56000.0,Card
+ORD293,2025-06-14,Divya,Chennai,Monitor,Electronics,Arun,2.0,18000.0,0%,36000.0,Card
+ORD294,2025-05-27,Meena,Delhi,Printer,Electronics,Sneha,10.0,15000.0,10%,135000.0,UPI
+ORD295,2025-12-09,Arjun,Pune,Tablet,Electronics,Sneha,3.0,28000.0,5%,79800.0,Net Banking
+ORD296,2025-03-23,Meena,Bangalore,Laptop,Electronics,Meena,9.0,55000.0,10%,445500.0,UPI
+ORD297,2025-02-26,Vijay,Pune,Mouse,Accessories,Sneha,6.0,1200.0,5%,6840.0,Cash
+ORD298,2025-10-18,Meena,Hyderabad,Printer,Electronics,Ravi,10.0,15000.0,0%,150000.0,Cash
+ORD299,2025-02-08,Priya,Mumbai,Tablet,Electronics,Ravi,10.0,28000.0,5%,266000.0,Card
+ORD300,2025-04-19,Vijay,Chennai,Keyboard,Accessories,Sneha,1.0,2500.0,5%,2375.0,Cash
+ORD301,2025-10-06,Anjali,Chennai,Tablet,Electronics,Meena,9.0,28000.0,15%,214200.0,Net Banking
+ORD302,2025-12-08,Vijay,Bangalore,Keyboard,Accessories,Sneha,8.0,2500.0,10%,18000.0,Net Banking
+ORD303,2025-03-03,Kavya,Chennai,Printer,Electronics,Sneha,2.0,15000.0,10%,27000.0,Net Banking
+ORD304,2025-12-01,Priya,Chennai,Monitor,Electronics,Sneha,6.0,18000.0,5%,102600.0,UPI
+ORD305,2025-07-06,Rahul,,Laptop,Electronics,Ravi,5.0,55000.0,15%,233750.0,Net Banking
+ORD306,2025-02-06,Rahul,,Headphones,Accessories,Meena,9.0,3500.0,5%,29925.0,UPI
+ORD307,2025-01-10,Arjun,Hyderabad,Printer,Electronics,Sneha,9.0,15000.0,10%,121500.0,Cash
+ORD308,2025-06-15,Kiran,Hyderabad,Laptop,Electronics,Kiran,4.0,55000.0,10%,198000.0,Cash
+ORD309,2025-08-03,Neha,Chennai,Tablet,Electronics,Sneha,6.0,28000.0,10%,151200.0,Net Banking
+ORD310,2025-09-18,Vijay,Chennai,Keyboard,Accessories,Kiran,3.0,2500.0,10%,6750.0,UPI
+ORD311,2025-08-25,Pooja,Delhi,Laptop,Electronics,Meena,1.0,55000.0,5%,52250.0,UPI
+ORD312,2025-03-01,Arjun,Hyderabad,Tablet,Electronics,Ravi,4.0,28000.0,10%,100800.0,Net Banking
+ORD313,2025-11-08,Arjun,Delhi,Headphones,Accessories,Ravi,5.0,3500.0,15%,14875.0,Card
+ORD314,2025-03-09,Varun,Delhi,Printer,Electronics,Arun,9.0,15000.0,5%,128250.0,UPI
+ORD315,2025-08-14,Neha,Bangalore,Headphones,Accessories,Arun,3.0,3500.0,5%,9975.0,Cash
+ORD316,2025-01-03,Rohan,Mumbai,Mouse,Accessories,Sneha,9.0,1200.0,5%,10260.0,Cash
+ORD317,2025-06-19,Rahul,Pune,Laptop,Electronics,Arun,7.0,55000.0,5%,365750.0,Card
+ORD318,2025-08-15,Neha,Chennai,Keyboard,Accessories,Sneha,8.0,2500.0,0%,20000.0,Net Banking
+ORD319,2025-05-08,Rohan,Hyderabad,Keyboard,Accessories,Meena,3.0,2500.0,0%,7500.0,Cash
+ORD320,2025-03-01,Suresh,Bangalore,Mouse,Accessories,Meena,7.0,1200.0,15%,7140.0,UPI
+ORD321,2025-05-13,Rahul,Hyderabad,Monitor,Electronics,Kiran,9.0,18000.0,15%,137700.0,Cash
+ORD322,2025-10-12,Arjun,Delhi,Printer,Electronics,Ravi,5.0,,15%,63750.0,Card
+ORD323,2025-11-03,Divya,Bangalore,Laptop,Electronics,Sneha,3.0,55000.0,5%,156750.0,Cash
+ORD324,2025-06-19,Arjun,Chennai,Headphones,Accessories,Ravi,3.0,3500.0,15%,8925.0,UPI
+ORD325,2025-06-01,Neha,Hyderabad,Keyboard,Accessories,Kiran,,2500.0,0%,5000.0,UPI
+ORD326,2025-08-26,Kiran,Chennai,Keyboard,Accessories,Sneha,4.0,2500.0,0%,10000.0,UPI
+ORD327,2025-07-11,Anjali,Bengaluru,Monitor,Electronics,Arun,7.0,18000.0,5%,119700.0,UPI
+ORD328,2025-10-20,Varun,Hyderabad,Printer,Electronics,Meena,1.0,15000.0,15%,12750.0,UPI
+ORD329,2025-01-19,Priya,Bangalore,Headphones,Accessories,Kiran,2.0,3500.0,0%,7000.0,Net Banking
+ORD330,2025-12-18,Pooja,Hyderabad,Tablet,Electronics,Meena,6.0,28000.0,0%,168000.0,Net Banking
+ORD331,2025-06-11,Rahul,Chennai,Keyboard,Accessories,Ravi,4.0,2500.0,5%,9500.0,Net Banking
+ORD332,2025-02-01,Rohan,Delhi,Tablet,Electronics,Arun,2.0,28000.0,15%,47600.0,Net Banking
+ORD333,2025-04-30,Kavya,Pune,Mouse,Accessories,Sneha,10.0,1200.0,15%,10200.0,Card
+ORD334,2025-10-21,Anjali,Mumbai,Headphones,Accessories,Kiran,2.0,3500.0,10%,6300.0,Card
+ORD335,2025-03-21,Arjun,Delhi,Laptop,Electronics,Meena,9.0,55000.0,0%,495000.0,Cash
+ORD336,2025-07-30,Anjali,Mumbai,Keyboard,Accessories,Kiran,5.0,2500.0,15%,10625.0,Cash
+ORD337,2025-05-19,Varun,Mumbai,Printer,Electronics,Meena,4.0,15000.0,15%,51000.0,Card
+ORD338,2025-04-09,Vijay,Delhi,Mouse,Accessories,Sneha,5.0,1200.0,5%,5700.0,Cash
+ORD339,2025-05-08,Rohan,Bangalore,Keyboard,Accessories,Arun,4.0,2500.0,0%,10000.0,Card
+ORD340,2025-07-14,Priya,Chennai,Monitor,Electronics,Kiran,8.0,18000.0,15%,122400.0,Card
+ORD341,2025-11-12,Neha,Mumbai,Mouse,Accessories,Meena,8.0,1200.0,10%,8640.0,Card
+ORD342,2025-07-12,Kiran,Delhi,Printer,Electronics,Ravi,6.0,15000.0,0%,90000.0,Cash
+ORD343,2025-12-29,Rahul,Pune,Printer,Electronics,Arun,4.0,15000.0,0%,60000.0,Net Banking
+ORD344,2025-12-03,Rohan,Delhi,Laptop,Electronics,Meena,1.0,55000.0,15%,46750.0,Cash
+ORD345,2025-11-30,Rohan,Hyderabad,Laptop,Electronics,Sneha,8.0,55000.0,0%,440000.0,Net Banking
+ORD346,2025-03-29,Kavya,Chennai,Mouse,Accessories,Kiran,,1200.0,10%,1080.0,Net Banking
+ORD347,2025-12-08,Suresh,Delhi,Printer,Electronics,Arun,4.0,15000.0,15%,51000.0,Cash
+ORD348,2025-01-22,Suresh,Mumbai,Monitor,Electronics,Kiran,8.0,18000.0,0%,144000.0,Card
+ORD349,2025-03-20,Rohan,Chennai,Printer,Electronics,Ravi,10.0,15000.0,15%,127500.0,Net Banking
+ORD350,2025-11-07,Arjun,Delhi,Headphones,Accessories,Arun,9.0,3500.0,10%,28350.0,Card
+ORD351,2025-02-12,Priya,Bangalore,Tablet,Electronics,Kiran,5.0,28000.0,0%,140000.0,Cash
+ORD352,2025-08-21,Divya,Mumbai,Headphones,Accessories,Arun,5.0,3500.0,15%,14875.0,Card
+ORD353,2025-02-16,Vijay,Hyderabad,Laptop,Electronics,Arun,8.0,55000.0,0%,440000.0,Net Banking
+ORD354,2025-01-26,Suresh,Mumbai,Keyboard,Accessories,Meena,9.0,2500.0,0%,22500.0,UPI
+ORD355,2025-12-10,Kavya,Pune,Mouse,Accessories,Kiran,7.0,1200.0,10%,7560.0,UPI
+ORD356,2025-08-17,Amit,Hyderabad,Keyboard,Accessories,Meena,7.0,2500.0,0%,17500.0,UPI
+ORD357,2025-08-01,Vijay,Delhi,Mouse,Accessories,Arun,3.0,1200.0,5%,3420.0,UPI
+ORD358,2025-07-29,Arjun,Bangalore,Keyboard,Accessories,Ravi,1.0,2500.0,10%,2250.0,Net Banking
+ORD359,2025-03-14,Vijay,Chennai,Tablet,Electronics,Kiran,10.0,28000.0,0%,280000.0,UPI
+ORD360,2025-08-01,Meena,Delhi,Printer,Electronics,Arun,,15000.0,5%,99750.0,Card
+ORD361,2025-02-18,Vijay,Bangalore,Laptop,Electronics,Sneha,6.0,55000.0,5%,313500.0,Net Banking
+ORD362,2025-06-24,Divya,Pune,Laptop,Electronics,Sneha,8.0,55000.0,10%,396000.0,Card
+ORD363,2025-07-10,Varun,Bangalore,Laptop,Electronics,Sneha,10.0,55000.0,15%,467500.0,Net Banking
+ORD364,2025-11-29,Priya,Chennai,Laptop,Electronics,Ravi,9.0,55000.0,15%,420750.0,UPI
+ORD365,2025-09-21,Rohan,Hyderabad,Printer,Electronics,Arun,6.0,15000.0,10%,81000.0,Card
+ORD366,2025-10-17,Vijay,Delhi,Laptop,Electronics,Ravi,10.0,55000.0,5%,522500.0,Card
+ORD367,2025-10-16,Arjun,Pune,Keyboard,Accessories,Ravi,10.0,2500.0,0%,25000.0,UPI
+ORD368,2025-09-03,Varun,Hyderabad,Headphones,Accessories,Kiran,9.0,3500.0,0%,31500.0,Net Banking
+ORD369,2025-08-14,Kiran,Bangalore,Printer,Electronics,Meena,2.0,15000.0,15%,25500.0,Net Banking
+ORD370,2025-04-20,Rohan,Bangalore,Mouse,Accessories,Arun,9.0,1200.0,0%,10800.0,Net Banking
+ORD371,2025-06-09,Amit,Mumbai,Mouse,Accessories,Kiran,5.0,1200.0,15%,5100.0,Card
+ORD372,2025-04-13,Anjali,Chennai,Keyboard,Accessories,Ravi,1.0,2500.0,10%,2250.0,UPI
+ORD373,2025-07-27,Pooja,Mumbai,Mouse,Accessories,Ravi,10.0,1200.0,15%,10200.0,Cash
+ORD374,2025-02-01,Rahul,Chennai,Monitor,Electronics,Arun,3.0,18000.0,5%,51300.0,Net Banking
+ORD375,2025-10-26,Neha,Bangalore,Mouse,Accessories,Meena,10.0,1200.0,15%,,Net Banking
+ORD376,2025-01-15,Neha,Pune,Laptop,Electronics,Sneha,2.0,55000.0,15%,93500.0,UPI
+ORD377,2025-02-24,Arjun,Hyderabad,Mouse,Accessories,Sneha,10.0,1200.0,5%,,Cash
+ORD378,2025-08-29,Meena,Mumbai,Monitor,Electronics,Kiran,9.0,18000.0,15%,137700.0,Cash
+ORD379,2025-08-26,Kiran,Pune,Printer,Electronics,Ravi,4.0,15000.0,0%,60000.0,UPI
+ORD380,2025-06-22,Neha,Bangalore,Mouse,Accessories,Meena,10.0,1200.0,15%,10200.0,Card
+ORD381,2025-04-29,Pooja,Hydrabad,Mouse,Accessories,Kiran,2.0,1200.0,10%,2160.0,Card
+ORD382,2025-03-09,Meena,Chennai,Headphones,Accessories,Ravi,5.0,3500.0,15%,14875.0,UPI
+ORD383,2025-10-08,Amit,Delhi,Monitor,Electronics,Meena,10.0,18000.0,15%,153000.0,UPI
+ORD384,2025-10-28,Priya,Pune,Mouse,Accessories,Kiran,6.0,1200.0,0%,7200.0,Cash
+ORD385,2025-12-08,Vijay,Chennai,Printer,Electronics,Ravi,5.0,,10%,67500.0,Card
+ORD386,2025-12-03,Vijay,Delhi,Laptop,Electronics,Meena,6.0,55000.0,0%,330000.0,UPI
+ORD387,2025-09-20,Meena,Pune,Laptop,Electronics,Kiran,10.0,55000.0,0%,550000.0,Card
+ORD388,2025-06-30,Varun,Chennai,Mouse,Accessories,Meena,1.0,1200.0,15%,1020.0,Net Banking
+ORD389,2025-09-20,Meena,Mumbai,Tablet,Electronics,Arun,5.0,28000.0,5%,133000.0,Cash
+ORD390,2025-03-12,Kiran,Mumbai,Headphones,Accessories,Sneha,4.0,3500.0,5%,13300.0,Cash
+ORD391,2025-10-11,Amit,Delhi,Printer,Electronics,Meena,4.0,15000.0,10%,54000.0,Card
+ORD392,2025-08-18,Kiran,Bangalore,Mouse,Accessories,Ravi,8.0,1200.0,5%,9120.0,Card
+ORD393,2025-07-14,Neha,Pune,Tablet,Electronics,Sneha,2.0,28000.0,5%,53200.0,UPI
+ORD394,2025-05-17,Meena,Hyderabad,Tablet,Electronics,Sneha,9.0,28000.0,10%,226800.0,Card
+ORD395,2025-07-25,Priya,Hyderabad,Printer,Electronics,Arun,2.0,15000.0,5%,28500.0,UPI
+ORD396,2025-05-25,Suresh,,Mouse,Accessories,Ravi,9.0,1200.0,10%,9720.0,Net Banking
+ORD397,2025-03-03,Amit,Delhi,Monitor,Electronics,Meena,4.0,18000.0,15%,61200.0,Card
+ORD398,2025-10-20,Arjun,Bangalore,Monitor,Electronics,Sneha,4.0,18000.0,5%,68400.0,UPI
+ORD399,2025-09-16,Rohan,Mumbai,Headphones,Accessories,Ravi,1.0,3500.0,5%,3325.0,Card
+ORD400,2025-03-29,Pooja,Pune,Tablet,Electronics,Ravi,9.0,28000.0,0%,252000.0,Card
+ORD401,2025-06-10,Kiran,Chennai,Monitor,Electronics,Sneha,4.0,18000.0,0%,72000.0,UPI
+ORD402,2025-03-26,Kavya,Bangalore,Keyboard,Accessories,Meena,,2500.0,15%,6375.0,Net Banking
+ORD403,2025-03-05,Suresh,Chennai,Monitor,Electronics,Sneha,2.0,18000.0,0%,36000.0,Card
+ORD404,2025-09-13,Suresh,Delhi,Keyboard,Accessories,Arun,3.0,2500.0,10%,6750.0,Net Banking
+ORD405,2025-01-22,Varun,Bangalore,Mouse,Accessories,Meena,7.0,1200.0,0%,8400.0,Net Banking
+ORD406,2025-08-16,Divya,Bangalore,Headphones,Accessories,Kiran,9.0,3500.0,15%,26775.0,Net Banking
+ORD407,2025-07-04,Pooja,Bangalore,Mouse,Accessories,Meena,1.0,,10%,1080.0,UPI
+ORD408,2025-07-31,Kavya,Bangalore,Mouse,Accessories,Kiran,5.0,1200.0,5%,5700.0,Cash
+ORD409,2025-10-06,Rohan,Pune,Tablet,Electronics,Arun,2.0,28000.0,10%,50400.0,UPI
+ORD410,2025-03-13,Pooja,Hyderabad,Tablet,Electronics,Meena,10.0,,,252000.0,Net Banking
+ORD411,2025-02-13,Varun,Hyderabad,Keyboard,Accessories,Ravi,5.0,2500.0,10%,11250.0,Card
+ORD412,2025-10-28,Meena,Pune,Printer,Electronics,Kiran,4.0,,15%,51000.0,Cash
+ORD413,2025-08-13,Suresh,Chennai,Monitor,Electronics,Sneha,2.0,18000.0,10%,32400.0,UPI
+ORD414,2025-08-18,Divya,Mumbai,Keyboard,Accessories,Ravi,9.0,2500.0,0%,22500.0,Cash
+ORD415,2025-09-02,Arjun,Mumbai,Monitor,Electronics,Sneha,9.0,18000.0,15%,137700.0,Card
+ORD416,2025-12-03,Varun,Mumbai,Laptop,Electronics,Sneha,7.0,55000.0,15%,327250.0,Net Banking
+ORD417,2025-06-03,Neha,Delhi,Monitor,Electronics,Sneha,10.0,18000.0,10%,162000.0,Card
+ORD418,2025-01-02,Vijay,Delhi,Mouse,Accessories,Meena,3.0,1200.0,15%,3060.0,Net Banking
+ORD419,2025-08-11,Pooja,Pune,Keyboard,Accessories,Meena,9.0,2500.0,15%,19125.0,UPI
+ORD420,2025-09-04,Rahul,Pune,Mouse,Accessories,Sneha,10.0,1200.0,15%,10200.0,UPI
+ORD421,2025-03-18,Neha,Delhi,Mouse,Accessories,Meena,9.0,1200.0,15%,9180.0,UPI
+ORD422,2025-02-21,Anjali,Bangalore,Tablet,Electronics,Ravi,4.0,28000.0,0%,112000.0,UPI
+ORD423,2025-03-05,Arjun,Pune,Keyboard,Accessories,Kiran,5.0,2500.0,10%,11250.0,Net Banking
+ORD424,2025-07-12,Meena,Mumbai,Headphones,Accessories,Ravi,10.0,3500.0,0%,35000.0,Card
+ORD425,2025-08-27,Vijay,Chennai,Printer,Electronics,Ravi,3.0,15000.0,15%,38250.0,Cash
+ORD426,2025-02-01,Pooja,Bengaluru,Laptop,Electronics,Kiran,5.0,55000.0,0%,275000.0,UPI
+ORD427,2025-03-05,Arjun,Bangalore,Mouse,Accessories,Sneha,3.0,1200.0,0%,3600.0,Net Banking
+ORD428,2025-03-19,Varun,Pune,Tablet,Electronics,Meena,3.0,28000.0,10%,75600.0,Card
+ORD429,2025-02-13,Neha,Chennai,Laptop,Electronics,Ravi,10.0,55000.0,10%,495000.0,Card
+ORD430,2025-12-06,Neha,Bangalore,Tablet,Electronics,Meena,4.0,28000.0,5%,106400.0,UPI
+ORD431,2025-02-01,Arjun,Mumbai,Headphones,Accessories,Kiran,8.0,3500.0,0%,28000.0,UPI
+ORD432,2025-05-24,Varun,Pune,Tablet,Electronics,Sneha,9.0,28000.0,0%,252000.0,UPI
+ORD433,2025-07-10,Rahul,Delhi,Printer,Electronics,Kiran,4.0,15000.0,0%,60000.0,Cash
+ORD434,2025-07-16,Pooja,Pune,Laptop,Electronics,Ravi,8.0,55000.0,0%,440000.0,Net Banking
+ORD435,2025-02-08,Amit,Delhi,Mouse,Accessories,Ravi,9.0,1200.0,0%,10800.0,Cash
+ORD436,2025-12-26,Pooja,Hyderabad,Tablet,Electronics,Ravi,8.0,28000.0,10%,201600.0,Card
+ORD437,2025-06-04,Priya,Delhi,Monitor,Electronics,Sneha,6.0,,10%,97200.0,Cash
+ORD438,2025-07-04,Rohan,Delhi,Keyboard,Accessories,Arun,8.0,2500.0,15%,17000.0,Net Banking
+ORD439,2025-10-19,Neha,Mumbai,Tablet,Electronics,Sneha,7.0,28000.0,5%,186200.0,Cash
+ORD440,2025-10-18,Arjun,Bangalore,Tablet,Electronics,Kiran,-10.0,28000.0,0%,280000.0,Cash
+ORD441,2025-10-25,Varun,Hyderabad,Printer,Electronics,Sneha,4.0,15000.0,5%,57000.0,Cash
+ORD442,2025-08-29,Kavya,Hyderabad,Printer,Electronics,Sneha,1.0,15000.0,,,Card
+ORD443,2025-08-13,Varun,Hyderabad,Monitor,Electronics,Kiran,8.0,18000.0,10%,129600.0,Card
+ORD444,2025-08-11,Divya,Bangalore,Printer,Electronics,Meena,4.0,15000.0,0%,60000.0,Net Banking
+ORD445,2025-03-17,Anjali,Chennai,Headphones,Accessories,Sneha,7.0,3500.0,15%,,Net Banking
+ORD446,2025-12-13,Rahul,Bangalore,Monitor,Electronics,Arun,8.0,18000.0,5%,136800.0,Cash
+ORD447,2025-08-09,Kavya,Bangalore,Laptop,Electronics,Kiran,4.0,55000.0,15%,187000.0,Net Banking
+ORD448,2025-10-01,Rahul,Delhi,Keyboard,Accessories,Kiran,10.0,2500.0,15%,21250.0,UPI
+ORD449,2025-05-12,Pooja,Pune,Monitor,Electronics,Kiran,9.0,18000.0,0%,,Cash
+ORD450,2025-09-26,Varun,Chennai,Monitor,Electronics,Kiran,6.0,18000.0,5%,,Net Banking
+ORD451,2025-10-19,Neha,Mumbai,Monitor,Electronics,Kiran,1.0,18000.0,5%,17100.0,Net Banking
+ORD452,2025-06-11,Amit,Hyderabad,Headphones,Accessories,Sneha,8.0,3500.0,15%,23800.0,Cash
+ORD453,2025-02-07,Kavya,Hyderabad,Mouse,Accessories,Ravi,7.0,1200.0,5%,7980.0,UPI
+ORD454,2025-01-07,Varun,Delhi,Tablet,Electronics,Ravi,4.0,28000.0,15%,95200.0,Cash
+ORD455,2025-02-16,Arjun,Chennai,Printer,Electronics,Ravi,10.0,15000.0,10%,135000.0,Net Banking
+ORD456,2025-10-29,Suresh,Mumbai,Monitor,Electronics,Sneha,3.0,18000.0,0%,54000.0,UPI
+ORD457,2025-03-10,Priya,Bangalore,Laptop,Electronics,Ravi,10.0,55000.0,0%,550000.0,UPI
+ORD458,2025-01-11,Priya,Pune,Tablet,Electronics,Meena,6.0,28000.0,0%,168000.0,Net Banking
+ORD459,2025-01-14,Meena,Bangalore,Printer,Electronics,Sneha,7.0,15000.0,5%,99750.0,Cash
+ORD460,2025-12-09,Amit,Bangalore,Mouse,Accessories,Meena,4.0,1200.0,0%,4800.0,Card
+ORD461,2025-01-25,Arjun,Bangalore,Tablet,Electronics,Meena,3.0,28000.0,5%,79800.0,UPI
+ORD462,2025-10-03,Neha,Mumbai,Tablet,Electronics,Meena,4.0,28000.0,15%,95200.0,Cash
+ORD463,2025-08-24,Kiran,Delhi,Laptop,Electronics,Arun,8.0,55000.0,0%,440000.0,Card
+ORD464,2025-10-02,Neha,Bangalore,Headphones,Accessories,Meena,10.0,3500.0,0%,35000.0,Card
+ORD465,2025-12-26,Rohan,Chennai,Keyboard,Accessories,Sneha,6.0,2500.0,5%,14250.0,Cash
+ORD466,2025-06-12,Meena,Hyderabad,Headphones,Accessories,Arun,2.0,3500.0,5%,6650.0,Cash
+ORD467,2025-08-14,Amit,Pune,Headphones,Accessories,Meena,1.0,3500.0,15%,2975.0,Card
+ORD468,2025-01-19,Vijay,Bangalore,Laptop,Electronics,Arun,3.0,55000.0,5%,156750.0,Card
+ORD469,2025-10-31,Pooja,Mumbai,Monitor,Electronics,Arun,9.0,18000.0,5%,153900.0,Cash
+ORD470,2025-01-14,Pooja,Delhi,Mouse,Accessories,Kiran,5.0,1200.0,0%,6000.0,Cash
+ORD471,2025-09-21,Varun,Delhi,Mouse,Accessories,Arun,6.0,1200.0,10%,6480.0,Cash
+ORD472,2025-12-31,Pooja,Hyderabad,Laptop,Electronics,Kiran,6.0,55000.0,10%,297000.0,Card
+ORD473,2025-07-07,Varun,Bangalore,Mouse,Accessories,Kiran,5.0,1200.0,15%,5100.0,Net Banking
+ORD474,2025-07-07,Vijay,Pune,Monitor,Electronics,Kiran,3.0,18000.0,0%,54000.0,UPI
+ORD475,2025-08-03,Rahul,,Mouse,Accessories,Sneha,8.0,1200.0,10%,8640.0,Cash
+ORD476,2025-09-16,Rahul,Chennai,Mouse,Accessories,Arun,2.0,1200.0,0%,2400.0,Net Banking
+ORD477,2025-12-19,Arjun,Bangalore,Headphones,Accessories,Ravi,4.0,3500.0,5%,13300.0,Cash
+ORD478,2025-04-23,Vijay,Hydrabad,Tablet,Electronics,Ravi,3.0,28000.0,0%,,Net Banking
+ORD479,2025-12-11,Kavya,Hyderabad,Tablet,Electronics,Kiran,9.0,,5%,239400.0,Net Banking
+ORD480,2025-10-22,Neha,Mumbai,Keyboard,Accessories,Sneha,3.0,2500.0,10%,6750.0,Card
+ORD481,2025-08-22,Rohan,Mumbai,Printer,Electronics,Ravi,10.0,15000.0,0%,150000.0,Cash
+ORD482,2025-05-05,Meena,Mumbai,Printer,Electronics,Kiran,10.0,15000.0,5%,142500.0,UPI
+ORD483,2025-05-19,Kavya,Mumbai,Tablet,Electronics,Sneha,4.0,28000.0,15%,95200.0,Card
+ORD484,2025-03-30,Divya,Bangalore,Printer,Electronics,Arun,10.0,15000.0,10%,135000.0,Net Banking
+ORD485,2025-12-17,Suresh,Hyderabad,Keyboard,Accessories,Meena,6.0,2500.0,0%,15000.0,Cash
+ORD486,2025-03-05,Kavya,Pune,Headphones,Accessories,Kiran,5.0,3500.0,10%,15750.0,Cash
+ORD487,2025-10-22,Anjali,Bangalore,Keyboard,Accessories,Kiran,2.0,2500.0,5%,4750.0,UPI
+ORD488,2025-07-14,Kiran,Delhi,Mouse,Accessories,Ravi,3.0,1200.0,0%,3600.0,Net Banking
+ORD489,2025-12-26,Rohan,Chennai,Laptop,Electronics,Arun,4.0,55000.0,0%,220000.0,UPI
+ORD490,2025-04-04,Meena,Delhi,Monitor,Electronics,Meena,1.0,18000.0,0%,18000.0,UPI
+ORD491,2025-12-03,Rohan,Mumbai,Laptop,Electronics,Ravi,9.0,55000.0,0%,495000.0,UPI
+ORD492,2025-07-09,Meena,Chennai,Mouse,Accessories,Meena,5.0,,5%,5700.0,UPI
+ORD493,2025-06-14,Kiran,Pune,Printer,Electronics,Ravi,1.0,15000.0,10%,13500.0,UPI
+ORD494,2025-08-05,Varun,Bangalore,laptop,Accessories,Meena,2.0,1200.0,15%,,UPI
+ORD495,2025-10-23,Meena,Hyderabad,Tablet,Electronics,Ravi,6.0,28000.0,15%,142800.0,Net Banking
+ORD496,2025-11-15,Kavya,Pune,Keyboard,Accessories,Arun,5.0,2500.0,15%,10625.0,Card
+ORD497,2025-09-28,Neha,Mumbai,Laptop,Electronics,Ravi,4.0,55000.0,5%,209000.0,Cash
+ORD498,2025-05-12,Rahul,Chennai,Mouse,Accessories,Kiran,7.0,1200.0,0%,8400.0,Cash
+ORD499,2025-08-19,Pooja,Pune,Tablet,Electronics,Sneha,8.0,28000.0,0%,224000.0,UPI
+ORD500,2025-11-12,Kavya,Pune,Headphones,Accessories,Meena,3.0,3500.0,0%,10500.0,UPI
+ORD501,2025-11-12,Neha,Pune,Mouse,Accessories,Ravi,5.0,1200.0,0%,6000.0,UPI
+ORD502,2025-02-20,Kiran,Pune,Printer,Electronics,Kiran,3.0,15000.0,10%,40500.0,Net Banking
+ORD503,2025-07-14,Rahul,Chennai,Printer,Electronics,Kiran,10.0,15000.0,10%,135000.0,UPI
+ORD504,2025-11-15,Pooja,Mumbai,Printer,Electronics,Ravi,10.0,15000.0,0%,150000.0,Net Banking
+ORD505,2025-03-11,Rohan,Mumbai,Laptop,Electronics,Ravi,9.0,55000.0,0%,495000.0,Cash
+ORD506,2025-12-09,Meena,Bangalore,Keyboard,Accessories,Meena,6.0,2500.0,10%,13500.0,UPI
+ORD507,2025-08-30,Pooja,Mumbai,Laptop,Electronics,Meena,8.0,55000.0,0%,440000.0,Net Banking
+ORD508,2025-07-11,Kavya,Mumbai,Mouse,Accessories,Kiran,4.0,1200.0,15%,4080.0,Net Banking
+ORD509,2025-02-17,Amit,Hyderabad,Keyboard,Accessories,Arun,2.0,2500.0,,4750.0,UPI
+ORD510,2025-09-23,Vijay,Pune,Printer,Electronics,Kiran,8.0,15000.0,0%,120000.0,UPI
+ORD511,2025-12-12,Kiran,Pune,Keyboard,Accessories,Ravi,9.0,2500.0,15%,19125.0,UPI
+ORD512,2025-08-04,Meena,Bangalore,Printer,Electronics,Ravi,3.0,15000.0,0%,,Cash
+ORD513,2025-08-24,Divya,Pune,Monitor,Electronics,Kiran,1.0,18000.0,10%,16200.0,Cash
+ORD514,2025-11-10,Anjali,Chennai,Laptop,Electronics,Kiran,5.0,,15%,233750.0,Net Banking
+ORD515,2025-02-21,Suresh,Pune,Keyboard,Accessories,Ravi,9.0,2500.0,10%,20250.0,Cash
+ORD260,2025-01-27,Vijay,Delhi,Keyboard,Accessories,Kiran,6.0,2500.0,,13500.0,UPI
+ORD483,2025-05-19,Kavya,Mumbai,Tablet,Electronics,Sneha,4.0,28000.0,15%,95200.0,Card
+ORD073,2025-02-24,Meena,Delhi,Laptop,Electronics,Meena,2.0,55000.0,10%,99000.0,Card
+ORD191,2025-11-08,Neha,Chennai,Keyboard,Accessories,Ravi,2.0,2500.0,5%,4750.0,Net Banking
+ORD109,2025-10-18,Anjali,Pune,Keyboard,Accessories,Sneha,2.0,2500.0,15%,4250.0,UPI
+ORD139,2025-08-03,Meena,Pune,Keyboard,Accessories,Sneha,8.0,2500.0,5%,19000.0,Cash
+ORD455,2025-02-16,Arjun,Chennai,Printer,Electronics,Ravi,10.0,15000.0,10%,135000.0,Net Banking
+ORD408,2025-07-31,Kavya,Bangalore,Mouse,Accessories,Kiran,5.0,1200.0,5%,5700.0,Cash
+ORD170,2025-12-21,Pooja,Pune,Keyboard,Accessories,Ravi,2.0,2500.0,5%,4750.0,UPI
+ORD359,2025-03-14,Vijay,Chennai,Tablet,Electronics,Kiran,10.0,28000.0,0%,280000.0,UPI
+ORD336,2025-07-30,Anjali,Mumbai,Keyboard,Accessories,Kiran,5.0,2500.0,15%,10625.0,Cash
+ORD157,2025-07-23,Meena,Bangalore,Headphones,Accessories,Meena,8.0,3500.0,10%,25200.0,UPI
+ORD426,2025-02-01,Pooja,Delhi,Laptop,Electronics,Kiran,5.0,55000.0,0%,275000.0,UPI
+ORD234,2025-03-18,Divya,Delhi,Keyboard,Accessories,Arun,8.0,2500.0,,17000.0,Net Banking
+ORD033,2025-08-09,Rahul,Bangalore,Mouse,Accessories,Arun,3.0,1200.0,5%,,Card
